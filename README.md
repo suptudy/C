@@ -14,4 +14,4 @@ PA17 : Anagram   |   PA18 : Waldorf
 
 # C_Algorithmjobs
 
-알고리즘잡스를 통해 학습한 문제
+알고리즘잡스를 통해 학습한 문제 중 많이 깨달았던 문제
